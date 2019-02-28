@@ -1,0 +1,95 @@
+cs1302-arcade:
+total 656
+-rw-r--r--. 1 ugrad    494 Dec 11 19:24 ATTRIBUTIONS.md
+-rw-r--r--. 1 ugrad  31200 Dec  7 19:26 giphy.gif
+-rw-r--r--. 1 ugrad  19121 Nov 17 20:08 LICENSE
+-rw-r--r--. 1 ugrad    207 Nov 17 20:08 Makefile
+-rw-r--r--. 1 ugrad   1942 Nov 17 20:08 pom.xml
+-rw-r--r--. 1 ugrad  18823 Nov 17 20:08 README.md
+-rw-r--r--. 1 ugrad      0 Dec 11 22:35 rec15469
+-rw-r--r--. 1 ugrad   1609 Dec 11 19:24 REFLECTION.md
+-rw-r--r--. 1 ugrad 339929 Nov 28 18:09 Retro-80s-Arcade-Game.jpg
+-rw-r--r--. 1 ugrad  70407 Dec 11 21:22 Reversi.jpg
+drwxr-xr-x. 3 ugrad   4096 Nov 17 20:08 src
+drwxr-xr-x. 5 ugrad   4096 Nov 28 17:10 target
+-rw-r--r--. 1 ugrad 101463 Dec  5 15:38 tetris2.jpg
+-rw-r--r--. 1 ugrad  56976 Dec  4 23:44 tetris.jpg
+
+cs1302-arcade/src:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 17 20:08 main
+
+cs1302-arcade/src/main:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 17 20:08 java
+
+cs1302-arcade/src/main/java:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 17 20:08 cs1302
+
+cs1302-arcade/src/main/java/cs1302:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Dec 11 22:33 arcade
+
+cs1302-arcade/src/main/java/cs1302/arcade:
+total 160
+-rw-r--r--. 1 ugrad     1 Dec  7 20:02 #ArcadeApp.java#
+-rw-r--r--. 1 ugrad  4820 Dec 11 21:16 ArcadeApp.java
+-rw-r--r--. 1 ugrad  1649 Dec 11 17:16 Board.java
+-rw-r--r--. 1 ugrad   172 Dec 11 17:16 HumanPlayer.java
+-rw-r--r--. 1 ugrad   430 Dec 11 17:16 Player.java
+-rw-r--r--. 1 ugrad  9392 Dec 11 22:29 Reversi.java
+-rw-r--r--. 1 ugrad 24892 Dec 11 17:16 ReversiOld.java
+-rw-r--r--. 1 ugrad 48864 Dec 11 22:04 #Tetris.java#
+-rw-r--r--. 1 ugrad 45536 Dec 11 22:33 Tetris.java
+
+cs1302-arcade/target:
+total 12
+drwxr-xr-x. 3 ugrad 4096 Nov 28 17:10 classes
+drwxr-xr-x. 3 ugrad 4096 Nov 28 17:10 generated-sources
+drwxr-xr-x. 3 ugrad 4096 Nov 28 17:10 maven-status
+
+cs1302-arcade/target/classes:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 28 17:10 cs1302
+
+cs1302-arcade/target/classes/cs1302:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Dec 11 22:29 arcade
+
+cs1302-arcade/target/classes/cs1302/arcade:
+total 76
+-rw-r--r--. 1 ugrad  6101 Dec 11 22:29 ArcadeApp.class
+-rw-r--r--. 1 ugrad   638 Dec 11 22:29 Board.class
+-rw-r--r--. 1 ugrad   441 Dec 11 22:29 HumanPlayer.class
+-rw-r--r--. 1 ugrad   374 Dec 11 22:29 Player.class
+-rw-r--r--. 1 ugrad  2231 Dec 11 22:29 Reversi$1.class
+-rw-r--r--. 1 ugrad  2230 Dec 11 22:29 Reversi$2.class
+-rw-r--r--. 1 ugrad  8097 Dec 11 22:29 Reversi.class
+-rw-r--r--. 1 ugrad 11163 Dec 11 22:29 ReversiOld.class
+-rw-r--r--. 1 ugrad 26634 Dec 11 22:29 Tetris.class
+
+cs1302-arcade/target/generated-sources:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 28 17:10 annotations
+
+cs1302-arcade/target/generated-sources/annotations:
+total 0
+
+cs1302-arcade/target/maven-status:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 28 17:10 maven-compiler-plugin
+
+cs1302-arcade/target/maven-status/maven-compiler-plugin:
+total 4
+drwxr-xr-x. 3 ugrad 4096 Nov 28 17:10 compile
+
+cs1302-arcade/target/maven-status/maven-compiler-plugin/compile:
+total 4
+drwxr-xr-x. 2 ugrad 4096 Nov 28 17:10 default-compile
+
+cs1302-arcade/target/maven-status/maven-compiler-plugin/compile/default-compile:
+total 8
+-rw-r--r--. 1 ugrad 261 Dec 11 22:29 createdFiles.lst
+-rw-r--r--. 1 ugrad 537 Dec 11 22:30 inputFiles.lst
+/home/ugrads/donahue/cs1302-arcade:/home/work/cs1302a
